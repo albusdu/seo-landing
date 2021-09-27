@@ -231,6 +231,7 @@ body {
   font-family: "Conv_NeueHaasDisplayMediu", sans-serif;
   font-weight: bold;
   border: none;
+  text-decoration: none;
 }
 
 .nav {
