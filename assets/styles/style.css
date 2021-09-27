@@ -234,6 +234,10 @@ body {
   text-decoration: none;
 }
 
+.intro-block__button:hover {
+  color: #121212;
+}
+
 .nav {
   list-style: none;
   margin: 0;

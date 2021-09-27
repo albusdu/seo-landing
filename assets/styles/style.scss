@@ -172,6 +172,9 @@ body {
     font-weight: bold;
     border: none;
     text-decoration: none;
+    &:hover {
+      color: #121212;
+    }
   }
 }
 .nav {
